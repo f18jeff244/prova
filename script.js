@@ -1,7 +1,7 @@
 var email_input = document.getElementById("email");
 var senha_input = document.getElementById("senha");
-var email1 = "marcondes@gmail.com";
-var senha1 = "marcondes123";
+var email1 = "jeff@gmail.com";
+var senha1 = "123";
 
 
 var btn = document.getElementById("btn");
